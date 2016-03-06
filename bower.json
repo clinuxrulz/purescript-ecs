@@ -17,6 +17,7 @@
     "purescript-maps": "~0.5.4",
     "purescript-intmaps": "~1.1.1",
     "purescript-transformers": "~0.8.4",
-    "purescript-foldable-traversable": "~0.4.2"
+    "purescript-foldable-traversable": "~0.4.2",
+    "purescript-exists": "~0.2.0"
   }
 }
